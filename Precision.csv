@@ -1,14 +1,14 @@
-;;;AVSP;AVSP;RVSP;RVSP
-Term;depth;abstracts;CBOW;skip-gram;CBOW;skip-gram
-Neoplasms;1;;44%;44%;56%;33%
-Melanoma1;6;low level;11%;11%;0%;0%
-Melanoma2;6;low level;11%;11%;0%;0%
-Melanoma3;4;low level;33%;22%;67%;67%
-Melanoma1;6;high level;44%;56%;33%;33%
-Melanoma2;6;high level;44%;56%;33%;33%
-Melanoma3;4;high level;67%;56%;67%;56%
-Leukemia;3;low level;67%;33%;56%;11%
-Leukemia;3;high level;56%;89%;78%;89%
-Herpesviridae;3;;22%;56%;44%;56%
-Simplexvirus;5;low level;22%;11%;0%;0%
-Simplexvirus;5;high level;22%;0%;22%;11%
+,,,AVSP,AVSP,RVSP,RVSP
+Term,depth,abstracts,CBOW,skip-gram,CBOW,skip-gram
+Neoplasms,1,,44%,44%,56%,33%
+Melanoma1,6,low level,11%,11%,0%,0%
+Melanoma2,6,low level,11%,11%,0%,0%
+Melanoma3,4,low level,33%,22%,67%,67%
+Melanoma1,6,high level,44%,56%,33%,33%
+Melanoma2,6,high level,44%,56%,33%,33%
+Melanoma3,4,high level,67%,56%,67%,56%
+Leukemia,3,low level,67%,33%,56%,11%
+Leukemia,3,high level,56%,89%,78%,89%
+Herpesviridae,3,,22%,56%,44%,56%
+Simplexvirus,5,low level,22%,11%,0%,0%
+Simplexvirus,5,high level,22%,0%,22%,11%
